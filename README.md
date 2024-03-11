@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobiNeKCZ
+- 👋 Hi, I’m @d4z1
 - 👀 I’m interested in FiveM,RedM
 - 🌱 I’m currently learning lua 
 - 📫 How to reach me Discord itzmematty
