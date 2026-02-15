@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @d4z1
-- 👀 I’m interested in FiveM
-- 🌱 I’m currently learning lua 
+- 👋 Hi, I’m @Damian
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Java
